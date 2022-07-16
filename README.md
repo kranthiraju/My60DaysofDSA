@@ -7,5 +7,10 @@
 * **GeeksforGeeks :** [KranthiRaju](https://auth.geeksforgeeks.org/user/kranthiraju2019)
 
 #
-* **[Day-1 :](Day1\Day1.md)**
+* **[Day-1 :](Day1/Day1.md)**
     * **Repeat and missing number ,Count Inversion of array**
+
+
+* **[Day-2 :](Day2/Day2.md)**
+    * **Search in a 2D matrix, Pow(X,n), Majority elements (>N/2 times)**
+
