@@ -7,5 +7,5 @@
 * **GeeksforGeeks :** [KranthiRaju](https://auth.geeksforgeeks.org/user/kranthiraju2019)
 
 #
-* **[Day-1 :](Day1\Day1.md)**
+* **[Day-1 :](Day1/Day1.md)**
     * **Repeat and missing number ,Count Inversion of array**
