@@ -14,3 +14,8 @@
 * **[Day-2 :](Day2/Day2.md)**
     * **Search in a 2D matrix, Pow(X,n), Majority elements (>N/2 times)**
 
+* **[Day-3 :](Day3/Day3.md)**
+    * **Grid unique paths**
+
+* **[Day-4 :](Day4/Day4.md)**
+    * **2-sum Problem, 4-sum Problem, Longest Consecutive Sequence**
