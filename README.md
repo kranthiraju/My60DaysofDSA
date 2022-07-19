@@ -19,3 +19,6 @@
 
 * **[Day-4 :](Day4/Day4.md)**
     * **2-sum Problem, 4-sum Problem, Longest Consecutive Sequence**
+
+* **[Day-5 :](Day5/Day5.md)**
+    * **Longest subarray with sum zero, Count number of subarrays with given Xor K**
