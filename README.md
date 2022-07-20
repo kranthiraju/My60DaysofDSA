@@ -22,3 +22,6 @@
 
 * **[Day-5 :](Day5/Day5.md)**
     * **Longest subarray with sum zero, Count number of subarrays with given Xor K**
+
+* **[Day-6 :](Day6/Day6.md)**
+    * **Longest Substring without repeat**
