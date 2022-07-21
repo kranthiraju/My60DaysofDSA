@@ -25,3 +25,6 @@
 
 * **[Day-6 :](Day6/Day6.md)**
     * **Longest Substring without repeat**
+
+* **[Day-7 :](Day7/Day7.md)**
+    * **Reverse LL,Middle element of LL**
