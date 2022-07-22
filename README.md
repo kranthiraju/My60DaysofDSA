@@ -28,3 +28,7 @@
 
 * **[Day-7 :](Day7/Day7.md)**
     * **Reverse LL,Middle element of LL**
+
+* **[Day-8 :](Day8/Day8.md)**
+    * **Merge two sorted LL, Remove N-th node from back of LinkedList**
+
