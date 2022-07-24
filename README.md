@@ -35,3 +35,5 @@
 * **[Day-9 :](Day9/Day9.md)**
     * **Add two numbers as LL**
 
+* **[Day-10 :](Day10/Day10.md)**
+    * **Delete a given node (O(1)solution), Find Intersection point in Y LL, Detect Cycle in LL**
