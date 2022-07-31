@@ -52,7 +52,7 @@ bool isPalindrome(ListNode* head) {
 * **Space Complexity : *O(1)***
 
 #
-## 1. [Starting point of loop in a Linked List](https://leetcode.com/problems/linked-list-cycle-ii/)
+## 2. [Starting point of loop in a Linked List](https://leetcode.com/problems/linked-list-cycle-ii/)
 
 ### 🚨Disclaimer : Don’t jump directly to the solution, try it out yourself first.
 
