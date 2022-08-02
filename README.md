@@ -40,3 +40,6 @@
 
 * **[Day-11 :](Day11/Day11.md)**
     * **Palindrome LL, Starting point of loop in a Linked List**
+
+* **[Day-12 :](Day12/Day12.md)**
+    * **3-sum, Trapping Rainwater**
