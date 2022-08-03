@@ -43,3 +43,6 @@
 
 * **[Day-12 :](Day12/Day12.md)**
     * **3-sum, Trapping Rainwater**
+
+* **[Day-13 :](Day13/Day13.md)**
+    * **Remove Duplicate from Sorted array**
