@@ -1,4 +1,4 @@
-# Summary of Day-12
+# Summary of Day-13
 
 ## 1. [Remove Duplicate from Sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 

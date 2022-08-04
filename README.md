@@ -46,3 +46,6 @@
 
 * **[Day-13 :](Day13/Day13.md)**
     * **Remove Duplicate from Sorted array**
+
+* **[Day-14 :](Day14/Day14.md)**
+    * **Max consecutive ones, N meetings in one room**
