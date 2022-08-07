@@ -49,3 +49,6 @@
 
 * **[Day-14 :](Day14/Day14.md)**
     * **Max consecutive ones, N meetings in one room**
+
+* **[Day-15 :](Day15/Day15.md)**
+    * **Minimum No.of platforms,**
