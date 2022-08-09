@@ -51,4 +51,7 @@
     * **Max consecutive ones, N meetings in one room**
 
 * **[Day-15 :](Day15/Day15.md)**
-    * **Minimum No.of platforms,**
+    * **Minimum No.of platforms**
+
+* **[Day-16 :](Day16/Day16.md)**
+    * **Job Sequencing**
