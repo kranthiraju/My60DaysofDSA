@@ -55,3 +55,6 @@
 
 * **[Day-16 :](Day16/Day16.md)**
     * **Job Sequencing**
+
+* **[Day-17 :](Day17/Day17.md)**
+    * **Fractional Knapsack**
