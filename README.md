@@ -58,3 +58,6 @@
 
 * **[Day-17 :](Day17/Day17.md)**
     * **Fractional Knapsack**
+
+* **[Day-18 :](Day18/Day18.md)**
+    * **Minimum number of coins, N meetings in one room**
