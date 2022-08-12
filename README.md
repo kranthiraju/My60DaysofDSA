@@ -61,3 +61,8 @@
 
 * **[Day-18 :](Day18/Day18.md)**
     * **Minimum number of coins, N meetings in one room**
+
+* **[Day-19 :](Day19/Day19.md)**
+    * **Subset Sum**
+
+
